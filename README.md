@@ -3,6 +3,7 @@
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.....
 
 Test 001
+Test 002
 
 ## Up and running
 
